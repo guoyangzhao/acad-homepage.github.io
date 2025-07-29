@@ -54,7 +54,16 @@
   code {
     background-color: mix(#fff, $notice-color, 95%)
   }
+// // I added gy
+//   code {
+//     background-color: #007acc;
+//     color: white;
+//     padding: 2px 6px;
+//     border-radius: 4px;
+//   }
 
+
+  
   ul {
     &:last-child {
       margin-bottom: 0; /* override*/
