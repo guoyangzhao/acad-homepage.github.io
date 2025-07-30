@@ -97,9 +97,9 @@ IEEE International Conference on Robotics & Automation (ICRA), 2025. [Download](
 **Guoyang Zhao**, Yuxuan Liu, Weiqing Qi, Fulong Ma, Ming Liu, Jun Ma.   <br/>
 IEEE International Conference on Robotics & Automation (ICRA), 2025. [Download](https://arxiv.org/pdf/2409.15054)
 <br/>
-<img src='/images/pub_img/fisheye1.jpg' width='157' height='100'>&nbsp;
-<img src='/images/pub_img/fisheye2.jpg' width='100' height='100'>&nbsp;
-<img src='/images/pub_img/fisheye3.jpg' width='209' height='100'> 
+<img src='/images/pub_img/fisheye1.jpg' width='224' height='100'>&nbsp;
+<img src='/images/pub_img/fisheye2.jpg' width='102' height='100'>&nbsp;
+<img src='/images/pub_img/fisheye3.jpg' width='163' height='100'> 
 <br>
 </div>
 
@@ -207,6 +207,8 @@ Computers and Electronics in Agriculture (COMPAG), 2022. JCR Q1, IF: 8.9. [Downl
 
 # 🎖 Honors and Awards
 ## Awards
+- *2025.03* Best Conference Paper Award Finalist at IEEE ICRA 2025, Atlanta, USA  <br>
+- *2024.10* Best Paper Award – First Place at Workshop on AI and Robotics for Future Farming, IEEE IROS 2024, Abu Dhabi, UAE  <br>
 - *2022.03* Third Prize of the 17th "Challenge Cup" National College Students’ Extracurricular Academic Science and Technology Works Competition **Top-1%** (leader) <br>
 - *2021.10* Silver Prize of the 7th China International “Internet+” College Students’ Innovation and Entrepreneurship Competition **Top-0.5%** (leader)  <br>
 - *2021.07* Gold Prize of the 7th Heilongjiang Province "Internet+" College Students’ Innovation and Entrepreneurship Competition (leader)  <br>
@@ -219,16 +221,19 @@ Computers and Electronics in Agriculture (COMPAG), 2022. JCR Q1, IF: 8.9. [Downl
 - *2019.12* Second Prize of the First National College Students’ Intelligent Mechatronics System Innovation Design Competition  <br>
 
 ## Honors
-1. Honorary title of "Outstanding Graduates" of Northeast Agricultural University 06/2022 <br>
-2. National Enouragement Scholarship 09/2021 <br>
-3. Honorary title of "Triple-A student " of Northeast Agricultural University 09/2021 <br>
-4. Science and Technology Innovation Scholarship of Northeast Agricultural University	09/2021 <br>
-5. Honorary Title of "Double Innovation Star" of Northeast Agricultural University 09/2020 <br>
-6. Honorary title of "Triple-A student " of Northeast Agricultural University 09/2020 <br>
-7. National Encouragement Scholarship 09/2020 <br>
-8. Science and Technology Innovation Scholarship of Northeast Agricultural University 09/2020 <br>
-9. Social Work Scholarship of Northeast Agricultural University	09/2019 <br>
-10. Triple-A student scholarship of Northeast Agricultural University 09/2019 <br>
+- *2025.03*  Awarded ICRA 2025 Travel Grant, Atlanta, USA <br>
+- *2024.09*  Awarded Ph.D. Postgraduate Studentship (PGS) <br>
+- *2022.09*  Awarded M.Phil. Postgraduate Studentship (PGS) <br>
+- *2022.06* Honorary title of "Outstanding Graduates" of Northeast Agricultural University <br>
+- *2021.09* National Enouragement Scholarship <br>
+- *2021.09* Honorary title of "Triple-A student " of Northeast Agricultural University <br>
+- *2021.09* Science and Technology Innovation Scholarship of Northeast Agricultural University <br>
+- *2020.09* Honorary Title of "Double Innovation Star" of Northeast Agricultural University <br>
+- *2020.09* Honorary title of "Triple-A student " of Northeast Agricultural University <br>
+- *2020.09* National Encouragement Scholarship <br>
+- *2020.09* Science and Technology Innovation Scholarship of Northeast Agricultural University <br>
+- *2019.09* Social Work Scholarship of Northeast Agricultural University <br>
+- *2019.09* Triple-A student scholarship of Northeast Agricultural University <br>
 
 
 # 📖 Educations
@@ -237,14 +242,21 @@ Computers and Electronics in Agriculture (COMPAG), 2022. JCR Q1, IF: 8.9. [Downl
 - *2018.08 - 2022.07*, B.Sc. in Logistics Engineering, Northeast Agricultural University. 
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- - *2025.03 - 2026.03*, Ideation Project in HKSTP
 - *2024.09 - 2025.09*, Bridge Project in Lab of Future Technology
+- *2024.09 - 2024.12*, 2024 Fall Accelerator Program of MiraclePlus
 - *2023.06 - 2023.07*, Sustainability and Design Thinking Certificate Program in HKUST, HongKong <br>
-- *2019.07 - 2019.08*, Training Program for AI Talents in Chinese Universities” sponsored by the Ministry of Education and Intel Corporation, Zhejiang <br>
+- *2019.07 - 2019.08*, Training Program for AI Talents in Chinese Universities sponsored by the Ministry of Education and Intel Corporation, Zhejiang <br> -->
+- *2025.03 – 2026.03*, Ideation Project at **Hong Kong Science and Technology Parks (HKSTP)**
+- *2024.09 – 2025.09*, Bridge Program at **Lab of Future Technology, HKUST(GZ)**
+- *2024.09 – 2024.12*, **2024 Fall Accelerator Program** of **MiraclePlus**
+- *2023.06 – 2023.07*, Sustainability and Design Thinking Certificate Program at **HKUST, Hong Kong**
+- *2019.07 – 2019.08*, **Training Program for AI Talents in Chinese Universities** sponsored by the **Ministry of Education** and **Intel Corporation**
 
 
